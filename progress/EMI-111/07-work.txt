@@ -1,0 +1,1 @@
+Storybook для общих компонентов (2ч 30м, Frontend Dev)
