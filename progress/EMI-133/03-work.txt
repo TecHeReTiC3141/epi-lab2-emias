@@ -1,0 +1,1 @@
+Регистрация клиента OAuth 2.0 в mos.id (7ч 15м, Backend Dev)
